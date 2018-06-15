@@ -1,0 +1,7 @@
+.DS_Store
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/public/assets/*
+
